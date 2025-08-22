@@ -1,4 +1,6 @@
-# Frontend-Part mit Vite + React
+# 🛠 MERN Auth-Beispiel mit JWT 🚀 (FE)
+
+**Frontend-Part mit Vite + React**
 
 ## 🎯 Ziel: Frontend für JWT Auth
 
